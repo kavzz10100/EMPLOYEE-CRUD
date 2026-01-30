@@ -6,6 +6,7 @@ The Employee Management System is a full-stack web application developed to effi
 This project is built using modern web technologies following a modular and scalable architecture.
 
 🚀 Features
+
 ✅ Employee Management
 
 Add new employee records
