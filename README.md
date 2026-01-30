@@ -40,6 +40,7 @@ Modal-based employee forms
 Clean and modern layout
 
 🏗️ Tech Stack
+
 🔹 Frontend
 
 React.js
@@ -60,11 +61,17 @@ Express.js
 📡 API Endpoints
 Employee APIs
 Method	Endpoint	Description
+
 GET	/employees	Get all employees
+
 GET	/employees/:id	Get employee by ID
+
 POST	/employees	Add new employee
+
 PUT	/employees/:id	Update employee
+
 DELETE	/employees/:id	Delete employee
+
 MongoDB
 
 Mongoose
